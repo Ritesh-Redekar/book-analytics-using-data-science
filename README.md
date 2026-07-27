@@ -268,7 +268,7 @@ B.Tech Computer Science & Engineering
 ### Connect with Me
 
 - LinkedIn: www.linkedin.com/in/ritesh-redekar-94b5923b0
-- GitHub: https://github.com/YOUR-GITHUB
+- GitHub: [https://github.com/YOUR-GITHUB](https://github.com/Ritesh-Redekar)
 
 ---
 
